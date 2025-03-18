@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import os
 from io import BytesIO
-import plotly.express as px  
 
 st.set_page_config(page_title="💽 Data Sweeper", layout='wide')
 st.title("💽 Data Sweeper")
